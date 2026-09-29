@@ -12,6 +12,8 @@
 #define MAX_PACKETS 100
 #define END -1
 
+#define PN_LENGTH 4
+
 // PN sequence
 char pnCode[] = "1011";
 
